@@ -1,4 +1,4 @@
-**CTF
+# CTF
 
 I'm currently learning the basics of CTFs.
 I'm using the kali linux environment on a Virtual Machine via Virtual Box.
