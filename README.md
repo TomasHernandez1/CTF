@@ -8,8 +8,9 @@ In this repository i'm keeping track of solved CTFs with their solution;
 the file 'CTF procedure' has the common procedures for each prompt given by the CTFs; this file will be updated every time I find a new way of solving a CTF.
 
 The CTF challenges are taken from 'picoCTF' and organized by subject:
-- beginner: basic CTFs to acquire general skills or to have a first approach to a new topic
-- cryptography
-- forensics
-- general skills
-- web exploit
+- Beginner: basic CTFs to acquire general skills or to have a first approach to a new topic
+- Cryptography
+- Forensics
+- General Skills
+- Reverse Engeneering
+- Web Exploitation
