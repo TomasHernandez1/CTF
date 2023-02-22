@@ -1,0 +1,2 @@
+open python file, follow program instructions:
+python ende.py -d flag.txt.en

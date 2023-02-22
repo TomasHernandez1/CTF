@@ -1,0 +1,1 @@
+cat file, the flag is password

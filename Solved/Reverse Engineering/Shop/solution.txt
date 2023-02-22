@@ -1,0 +1,4 @@
+nc mercury.picoctf.net 3952
+
+buy negative stuff to get 100+ coins and then buy the flag
+convert from decimal to ASCII

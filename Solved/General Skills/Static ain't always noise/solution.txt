@@ -1,0 +1,9 @@
+1st solution:
+- chmod +x file.sh
+- ./file.sh
+- ./file.sh static
+- cat static.ltdis.strings.txt | grep pico
+
+2nd solution:
+- cat static
+- find flag between binary text
