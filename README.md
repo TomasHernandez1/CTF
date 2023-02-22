@@ -9,5 +9,7 @@ the file 'CTF procedure' has the common procedures for each prompt given by the 
 
 The CTF challenges are taken from 'picoCTF' and organized by subject:
 - beginner: basic CTFs to acquire general skills or to have a first approach to a new topic
+- cryptography
 - forensics
+- general skills
 - web exploit
