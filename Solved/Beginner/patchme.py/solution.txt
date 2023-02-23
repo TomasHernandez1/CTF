@@ -1,0 +1,3 @@
+cat patchme.flag.py
+
+compose the password by it's pieces written in the code
