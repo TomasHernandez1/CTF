@@ -10,7 +10,7 @@
 
 <h4>cat unpackme.flag.py</h4>
 
-<p><em>
+<p>
   import base64
   from cryptography.fernet import Fernet
 
@@ -23,6 +23,6 @@
   f = Fernet(key_base64)
   plain = f.decrypt(payload)
   exec(plain.decode())
-</em></p>
+</p>
 
 <h4>Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print the flag.</h4>
