@@ -30,7 +30,7 @@
   pw = input('What\'s the password? ')
 
   if pw == 'batteryhorse':<br>  
-  &nbspprint('picoCTF{175_chr157m45_5274ff21}')<br>
+  &nbsp;print('picoCTF{175_chr157m45_5274ff21}')<br>
   else:<br>
-  &nbspprint('That password is incorrect.')
+  &nbsp;print('That password is incorrect.')
 </p>
