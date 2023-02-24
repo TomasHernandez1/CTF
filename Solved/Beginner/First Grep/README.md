@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-<h4></h4>
-<p></p>
+<h4>cat file | grep pico</h4>
