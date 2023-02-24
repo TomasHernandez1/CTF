@@ -25,4 +25,12 @@
   exec(plain.decode())
 </p>
 
-<h4>Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print the flag.</h4>
+<h4>Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print:</h4>
+<p>
+  pw = input('What\'s the password? ')
+
+  if pw == 'batteryhorse':
+    print('picoCTF{175_chr157m45_5274ff21}')
+  else:
+    print('That password is incorrect.')
+</p>
