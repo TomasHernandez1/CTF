@@ -8,6 +8,8 @@
   Writeup:
 </h1>
 
+<h4>cat unpackme.flag.py</h4>
+
 <p><em>
   import base64
   from cryptography.fernet import Fernet
@@ -23,4 +25,4 @@
   exec(plain.decode())
 </em></p>
 
-Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print the flag.
+<h4>Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print the flag.</h4>
