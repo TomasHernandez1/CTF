@@ -8,4 +8,4 @@
   Writeup:
 </h1>
 
-> **strings strings | grep pico**
+> **$ strings strings | grep pico**
