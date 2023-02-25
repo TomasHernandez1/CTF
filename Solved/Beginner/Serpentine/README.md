@@ -1,3 +1,5 @@
+<style>
+
 <h1>
   Prompt:
 </h1>
@@ -8,5 +10,5 @@
   Writeup:
 </h1>
 
-<h5>change the python file: <br>
-in choice b put the funcion 'print_flag()'</h5>
+<h5 style="font-family: Consolas Bold">Change the python file: <br>
+In choice b put the funcion 'print_flag()'</h5>
