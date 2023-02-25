@@ -10,5 +10,5 @@
   Writeup:
 </h1>
 
-<h5 style="font-family: consolas">Change the python file: <br>
+<h5>Change the python file: <br>
 In choice b put the funcion 'print_flag()'</h5>
