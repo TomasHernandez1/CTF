@@ -9,4 +9,4 @@
 </h1>
 
 <p>Change the python file: <br>
-In choice b put the funcion 'print_flag()'<p>
+- In choice b put the funcion 'print_flag()'<p>
