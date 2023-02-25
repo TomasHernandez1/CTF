@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+<p>use 'frequency analysis tool' and guess the letters, starting with the known letters (picoCTF) <br>
+and filling the missing letters by looking at the almost completed words.</p>
