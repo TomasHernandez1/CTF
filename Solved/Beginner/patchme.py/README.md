@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> **cat patchme.flag.py**
+> **$ cat patchme.flag.py**
 <p>compose the password by it's pieces written in the code</p>
