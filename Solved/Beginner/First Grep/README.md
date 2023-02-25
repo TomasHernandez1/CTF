@@ -8,4 +8,4 @@
   Writeup:
 </h1>
 
-> **cat file | grep pico**
+> **$ cat file | grep pico**
