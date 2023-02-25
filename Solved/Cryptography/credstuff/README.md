@@ -8,8 +8,8 @@
   Writeup:
 </h1>
 
-> **$ tar -xf leak.tar
-> $ cat usernames.txt | grep cultiris -n
+> **$ tar -xf leak.tar <br>
+> $ cat usernames.txt | grep cultiris -n <br>
 > $ cat passwords.txt | head -n 378 | tail -1**
 
 <p>Decypher with ROT13</p>
