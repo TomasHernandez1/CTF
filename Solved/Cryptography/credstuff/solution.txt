@@ -1,6 +1,0 @@
-tar -xf leak.tar
-
-cat usernames.txt | grep cultiris -n
-cat passwords.txt | head -n 378 | tail -1
-
-Decypher with ROT13
