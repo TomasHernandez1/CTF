@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> ****
-<p></p>
+> **$ cat file**
+<p>the flag is password</p>
