@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-<p style="font-family: Roboto">python convertme.py <br>
-conversion from decimal to binary</p>
+> python convertme.py
+<p>conversion from decimal to binary</p>
