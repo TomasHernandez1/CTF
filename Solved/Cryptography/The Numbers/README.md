@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+<p>A1Z26 cypher</p>
