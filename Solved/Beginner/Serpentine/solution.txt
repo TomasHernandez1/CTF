@@ -1,2 +1,0 @@
-change the python file:
-in choice b put the funcion 'print_flag()'
