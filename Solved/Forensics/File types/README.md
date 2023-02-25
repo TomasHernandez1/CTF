@@ -8,8 +8,7 @@
   Writeup:
 </h1>
 
-> **$ sh Flag.pdf <br>
-> $ binwalk -e flag <br>
+> **$ binwalk -e flag <br>
 > $ cd _flag.extracted <br>
 > $ binwalk -e 64 <br>
 > $ cd _64.extracted <br>
