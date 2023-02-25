@@ -8,4 +8,4 @@
   Writeup:
 </h1>
 
-> **python code.py**
+> **$ python code.py**
