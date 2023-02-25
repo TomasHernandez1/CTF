@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+<p>same as 'Substitution0'</p>
