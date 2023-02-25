@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> **ssh ctf-player@venus.picoctf.net -p 59308**
+> **$ ssh ctf-player@venus.picoctf.net -p 59308**
 <p>simply copy and paste username and password<p>
