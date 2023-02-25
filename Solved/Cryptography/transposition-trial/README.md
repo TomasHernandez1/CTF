@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+<p>Divide the string in blocks of three characters and take the third and place it in first place for every block</p>
