@@ -1,2 +1,0 @@
-ssh ctf-player@venus.picoctf.net -p 59308
-simply copy and paste username and password
