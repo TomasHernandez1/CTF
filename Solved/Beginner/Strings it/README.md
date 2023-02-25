@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-<h5></h5>
-<p></p>
+<h5>strings strings | grep pico</h5>
