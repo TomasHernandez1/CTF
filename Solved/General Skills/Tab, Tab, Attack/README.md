@@ -8,5 +8,7 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+> **$ unzip file.zip -d . 
+> $ cd A..(press tab multiple times)
+> $ chmod +x file
+> $ ./file**
