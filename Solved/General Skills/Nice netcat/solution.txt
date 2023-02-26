@@ -1,2 +1,0 @@
- nc mercury.picoctf.net 35652 nel terminale
- traduci codice decimale in ASCII
