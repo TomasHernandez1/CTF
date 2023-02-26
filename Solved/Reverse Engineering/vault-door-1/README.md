@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-> **$ ** <br>
-<p></p>
+<p>cat file, follow the cypher from 1 to 31 and create the flag</p>
