@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+> **$ nc mercury.picoctf.net 35652**
+<p>decrypt from decimal to ASCII</p>
