@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+> **$ nc mercury.picoctf.net 28067** <br>
+<p>G-Code coding, used to 3D print</p>
