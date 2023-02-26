@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+<p>highlight the black rows in the pdf file</p>
