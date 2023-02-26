@@ -17,5 +17,5 @@
 <br>
 <h4>2nd solution:</h4>
 
-> **$ cat static <br> 
-> $ find flag between binary text**
+> **$ cat static** <br> 
+find flag in binary text
