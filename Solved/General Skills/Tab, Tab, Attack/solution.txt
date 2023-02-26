@@ -1,5 +1,0 @@
-unzip file.zip -d . (current directory)
-
-cd A..(press tab multiple times)
-chmod +x file
-./file
