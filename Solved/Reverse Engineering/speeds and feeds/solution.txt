@@ -1,3 +1,0 @@
-nc mercury.picoctf.net 28067
-
-it's G-Code, used to 3D print
