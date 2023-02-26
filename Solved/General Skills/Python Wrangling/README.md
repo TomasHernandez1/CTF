@@ -8,5 +8,4 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+> **$ python ende.py -d flag.txt.en**
