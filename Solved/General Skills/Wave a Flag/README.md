@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+> **$ chmod +x warm <br> 
+> $ ./warm**
