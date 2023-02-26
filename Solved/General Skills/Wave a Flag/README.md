@@ -9,4 +9,4 @@
 </h1>
 
 > **$ chmod +x warm <br> 
-> $ ./warm**
+> $ ./warm -h**
