@@ -20,5 +20,4 @@
 > $ cd base_images <br>
 > $ binwalk -e 4_c.jpg <br>
 > $ cd _4_c.jpg.extracted <br>
-> $ cat flag.txt
-**
+> $ cat flag.txt**
