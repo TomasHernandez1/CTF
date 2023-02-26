@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-> **$ **
-<p></p>
+> **$ exiftool cat.jpg <br>
+> $ echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d **
