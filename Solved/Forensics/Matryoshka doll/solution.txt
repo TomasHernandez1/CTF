@@ -1,3 +1,0 @@
-binwalk -e dolls.jpg
-cd folder 
-... 
