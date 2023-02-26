@@ -17,5 +17,6 @@
 <br>
 <h4>2nd solution:</h4>
 
-> **$ cat static** <br> 
+> **$ cat static**<br>
+
 find flag in binary text
