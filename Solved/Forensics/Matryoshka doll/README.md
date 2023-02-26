@@ -8,8 +8,8 @@
   Writeup:
 </h1>
 
-**
-> $ binwalk -e dolls.jpg <br>
+
+> **$ binwalk -e dolls.jpg <br>
 > $ cd _dolls.jpg.extracted <br>
 > $ cd base_images <br>
 > $ binwalk -e 2_c.jpg <br>
