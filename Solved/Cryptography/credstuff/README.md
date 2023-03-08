@@ -19,7 +19,7 @@ cvpbPGS{P7e1S_54I35_71Z3}
 Decypher with ROT13
 
 <h1>
-  Writeup
+  Flag
 </h1>
 
 picoCTF{C7r1F_54V35_71M3}
