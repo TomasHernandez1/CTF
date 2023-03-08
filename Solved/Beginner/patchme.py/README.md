@@ -9,7 +9,7 @@
 </h1>
 
 ```
-cat patchme.flag.py
+$ cat patchme.flag.py
 ...
 if( user_pw == "ak98" + \
                    "-=90" + \
