@@ -9,7 +9,7 @@
 </h1>
 
 ```
-Decode text with ROT13 cypher
+Decode text from ROT13 with an online decoder 
 ```
 
 <h1>
