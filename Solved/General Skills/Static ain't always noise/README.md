@@ -1,22 +1,31 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
 <h3>1st solution:</h3>
 
-> **$ chmod +x file.sh <br>
-> $ ./file.sh <br>
-> $ ./file.sh static <br>
-> $ cat static.ltdis.strings.txt | grep pico** <br>
+```
+$ chmod +x file.sh
+$ ./file.sh
+$ ./file.sh static
+$ cat static.ltdis.strings.txt | grep pico
+```
 
 <h3>2nd solution:</h3>
 
-> **$ cat static**<br>
-
+```
+$ cat static
+```
 find flag in binary text
+
+<h1>
+  Flag
+</h1>
+
+picoCTF{d15a5m_t34s3r_1e6a7731}
