@@ -1,12 +1,20 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-> **$ nc mercury.picoctf.net 35652**
-<p>decrypt from decimal to ASCII</p>
+```
+$ nc mercury.picoctf.net 35652
+```
+Decrypt from decimal to ASCII
+
+<h1>
+  Flag
+</h1>
+
+picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
