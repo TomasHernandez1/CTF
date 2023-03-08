@@ -1,32 +1,39 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-> **$ binwalk -e flag <br>
-> $ cd _flag.extracted <br>
-> $ binwalk -e 64 <br>
-> $ cd _64.extracted <br>
-> $ lunzip flag <br>
-> $ mv flag.out flag.lz4 <br>
-> $ lz4 flag.lz4 <br>
-> $ mv flag flag.lzma <br>
-> $ lzma -d flag.lzma <br>
-> $ binwalk -e flag <br>
-> $ cd _flag.extracted <br>
-> $ binwalk -e 0.lzo <br>
-> $ cd _0.lzo.extracted <br>
-> $ lzip 0 <br>
-> $ binwalk -e 0.out <br>
-> $ cd _0.out.extracted <br>
-> $ binwalk -e 0.xz <br>
-> $ cat 0** <br>
-<p>7069636f4354467b66316c656e406d335f6d406e3170756c407431306e5f
-6630725f3062326375723137795f33633739633562617d0a</p>
+```
+$ binwalk -e flag 
+$ cd _flag.extracted 
+$ binwalk -e 64 
+$ cd _64.extracted 
+$ lunzip flag 
+$ mv flag.out flag.lz4
+$ lz4 flag.lz4
+$ mv flag flag.lzma 
+$ lzma -d flag.lzma
+$ binwalk -e flag
+$ cd _flag.extracted
+$ binwalk -e 0.lzo 
+$ cd _0.lzo.extracted
+$ lzip 0 
+$ binwalk -e 0.out
+$ cd _0.out.extracted 
+$ binwalk -e 0.xz 
+$ cat 0
+7069636f4354467b66316c656e406d335f6d406e3170756c407431306e5f
+6630725f3062326375723137795f33633739633562617d0a
 
-> **$ hex -d 0**
+$ hex -d 0
+```
+
+<h1>
+  Flag
+</h1>
+picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_79b01c26}
