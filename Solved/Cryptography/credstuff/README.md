@@ -9,7 +9,7 @@
 </h1>
 
 ```
-$ tar -xf leak.tar <br>
+$ tar -xf leak.tar
 $ cat usernames.txt | grep cultiris -n
 378
 $ cat passwords.txt | head -n 378 | tail -1
