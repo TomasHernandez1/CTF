@@ -1,12 +1,20 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-<h5>file flag.txt <br> mv file.txt file.png</h5>
-<p></p>
+```
+file flag.txt 
+mv file.txt file.png
+```
+
+<h1>
+  Flag
+</h1>
+
+picoCTF{now_you_know_about_extensions}
