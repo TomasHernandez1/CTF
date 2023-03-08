@@ -1,23 +1,30 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
+```
+$ binwalk -e dolls.jpg 
+$ cd _dolls.jpg.extracted 
+$ cd base_images
+$ binwalk -e 2_c.jpg 
+$ cd _2_c.jpg.extracted 
+$ cd base_images 
+$ binwalk -e 3_c.jpg 
+$ cd _3_c.jpg.extracted
+$ cd base_images
+$ binwalk -e 4_c.jpg
+$ cd _4_c.jpg.extracted
+$ cat flag.txt
+```
 
-> **$ binwalk -e dolls.jpg <br>
-> $ cd _dolls.jpg.extracted <br>
-> $ cd base_images <br>
-> $ binwalk -e 2_c.jpg <br>
-> $ cd _2_c.jpg.extracted <br>
-> $ cd base_images <br>
-> $ binwalk -e 3_c.jpg <br>
-> $ cd _3_c.jpg.extracted <br>
-> $ cd base_images <br>
-> $ binwalk -e 4_c.jpg <br>
-> $ cd _4_c.jpg.extracted <br>
-> $ cat flag.txt**
+<h1>
+  Flag
+</h1>
+
+picoCTF{ac0072c423ee13bfc0b166af72e25b61}
