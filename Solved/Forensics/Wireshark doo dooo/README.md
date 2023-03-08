@@ -9,7 +9,7 @@
 </h1>
 
 open image with wireshark ->
-follow TCP stream on all HTTP, until n.5 <br>
+follow TCP stream on all HTTP, until n.5: cvpbPGS{c33xno00_1_f33_h_qrnqorrs}<br>
 decrypt flag with ROT13
 
 <h1>
