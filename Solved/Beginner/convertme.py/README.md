@@ -1,12 +1,20 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-> **$ python convertme.py**
-<p>conversion from decimal to binary</p>
+```
+python convertme.py
+```
+
+conversion from decimal to binary
+
+<h1>
+  Flag
+</h1>
+picoCTF{4ll_y0ur_b4535_8730f5cd}
