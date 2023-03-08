@@ -1,11 +1,18 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-> **$ strings strings | grep pico**
+```
+strings strings | grep pico
+```
+
+<h1>
+  Flag
+</h1>
+picoCTF{5tRIng5_1T_dd38f284}
