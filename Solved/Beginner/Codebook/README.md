@@ -1,17 +1,17 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
 > **$ python code.py**
 
 <h1>
-  Flag:
+  Flag
 </h1>
 
 picoCTF{c0d3b00k_455157_197a982c}
