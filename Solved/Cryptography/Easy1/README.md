@@ -8,7 +8,7 @@
   Writeup
 </h1>
 
-Encoded string: 'UFJKXQZQUNB' 
+Encoded string: 'UFJKXQZQUNB'<br>
 Decode with Vigenére cypher
 
 <h1>
