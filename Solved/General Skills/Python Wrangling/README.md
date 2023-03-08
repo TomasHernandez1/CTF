@@ -1,11 +1,17 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-> **$ python ende.py -d flag.txt.en**
+$ python ende.py -d flag.txt.en
+
+<h1>
+  Flag
+</h1>
+
+picoCTF{4p0110_1n_7h3_h0us3_aa821c16}
