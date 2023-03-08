@@ -1,11 +1,16 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-<p>Divide the string in blocks of three characters and take the third and place it in first place for every block</p>
+Divide the string in blocks of three characters and take the third and place it in first place for every block
+
+<h1>
+  Flag
+</h1>
+picoCTF{7R4N5P051N6_15_3XP3N51V3_5C82A0E0}
