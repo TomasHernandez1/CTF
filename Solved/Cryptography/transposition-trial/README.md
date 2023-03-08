@@ -8,7 +8,7 @@
   Writeup
 </h1>
 
-Divide the string in blocks of three characters and take the third and place it in first place for every block
+Divide the string in blocks of three characters, take the third character and place it in first place for every block
 
 <h1>
   Flag
