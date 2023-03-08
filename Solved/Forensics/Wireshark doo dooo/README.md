@@ -1,13 +1,19 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-<p>open image with wireshark <br>
-follow TCP stream on all HTTP, until n.5 <br>
-decrypt flag with ROT13</p>
+open image with wireshark
+follow TCP stream on all HTTP, until n.5
+decrypt flag with ROT13
+
+<h1>
+  Writeup
+</h1>
+
+picoCTF{p33kab00_1_s33_u_deadbeef}
