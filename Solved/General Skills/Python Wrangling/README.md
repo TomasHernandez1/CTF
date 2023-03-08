@@ -8,7 +8,9 @@
   Writeup
 </h1>
 
+```
 $ python ende.py -d flag.txt.en
+```
 
 <h1>
   Flag
