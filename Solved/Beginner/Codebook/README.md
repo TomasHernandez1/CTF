@@ -7,8 +7,9 @@
 <h1>
   Writeup
 </h1>
-
-> **$ python code.py**
+```
+$ python code.py
+```
 
 <h1>
   Flag
