@@ -20,7 +20,7 @@ $ cat static.ltdis.strings.txt | grep pico
 <h3>2nd solution:</h3>
 
 ```
-$ cat static
+$ cat static | grep pico
 ```
 find flag in binary text
 
