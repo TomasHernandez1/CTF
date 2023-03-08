@@ -8,5 +8,5 @@
   Writeup:
 </h1>
 
-<p>Change the python file: <br>
-- In choice b put the funcion 'print_flag()'<p>
+Change the python file:
+- In choice b put the funcion 'print_flag()'
