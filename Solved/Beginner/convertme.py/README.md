@@ -9,7 +9,7 @@
 </h1>
 
 ```
-python convertme.py
+$ python convertme.py
 ```
 
 conversion from decimal to binary
