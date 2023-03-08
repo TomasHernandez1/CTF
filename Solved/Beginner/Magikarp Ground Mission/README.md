@@ -8,6 +8,7 @@
   Writeup
 </h1>
 
+'''
 > $ ssh ctf-player@venus.picoctf.net -p 59308 <br>
 > $ cat 1of3.flag.txt <br>
 > picoCTF{xxsh_<br>
@@ -17,6 +18,7 @@
 > $ cd ~ <br>
 > $ cat 3of3.flag.txt <br>
 > c1754242}
+'''
 
 <h1>
   Flag
