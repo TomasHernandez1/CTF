@@ -1,12 +1,17 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
 Change the python file:
 - In choice b put the funcion 'print_flag()'
+
+<h1>
+  Flag
+</h1>
+picoCTF{7h3_r04d_l355_7r4v3l3d_b6567546}
