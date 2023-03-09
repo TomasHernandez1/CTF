@@ -1,12 +1,20 @@
 <h1>
-  Prompt:
+  Prompt
 </h1>
 
 ![alt text](prompt.png)
 
 <h1>
-  Writeup:
+  Writeup
 </h1>
 
-> **$ chmod +x warm <br> 
-> $ ./warm -h**
+```
+$ chmod +x warm 
+$ ./warm -h
+```
+
+<h1>
+  Flag
+</h1>
+
+picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
