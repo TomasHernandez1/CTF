@@ -10,7 +10,6 @@
 
 ```
 $ cat unpackme.flag.py
-```
 
 import base64<br>
 from cryptography.fernet import Fernet
@@ -22,15 +21,18 @@ key_base64 = base64.b64encode(key_str.encode())<br>
 f = Fernet(key_base64)<br>
 plain = f.decrypt(payload)<br>
 exec(plain.decode())<br>
+```
 
-<h4>Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print:</h4>
+Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print:
 
+```
 pw = input('What\'s the password? ')
 
 if pw == 'batteryhorse':<br>
 &nbsp;&nbsp;print('picoCTF{175_chr157m45_5274ff21}')<br>
 else:<br>
 &nbsp;&nbsp;print('That password is incorrect.')
+```
 
 <h1>
   Flag
