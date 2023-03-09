@@ -29,9 +29,9 @@ Before 'exec(plain.decode())' add a 'print(plain.decode)' and it will print:
 pw = input('What\'s the password? ')
 
 if pw == 'batteryhorse':<br>
-&nbsp;&nbsp;print('picoCTF{175_chr157m45_5274ff21}')<br>
+  print('picoCTF{175_chr157m45_5274ff21}')<br>
 else:<br>
-&nbsp;&nbsp;print('That password is incorrect.')
+  print('That password is incorrect.')
 ```
 
 <h1>
